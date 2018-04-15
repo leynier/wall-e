@@ -1,0 +1,3 @@
+﻿label a
+message "Hello!"
+goto a

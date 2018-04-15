@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sintime", "Sintime\Sintime.csproj", "{2361F86C-B80C-437C-9637-F0E13689087F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wall-E", "Wall-E\Wall-E.csproj", "{75A663A8-A247-48D4-8190-6609ECCD14AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad", "Notepad\Notepad.csproj", "{FC247553-73D2-4F3D-9F6D-1558FC60B96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2361F86C-B80C-437C-9637-F0E13689087F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2361F86C-B80C-437C-9637-F0E13689087F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2361F86C-B80C-437C-9637-F0E13689087F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2361F86C-B80C-437C-9637-F0E13689087F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A663A8-A247-48D4-8190-6609ECCD14AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A663A8-A247-48D4-8190-6609ECCD14AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A663A8-A247-48D4-8190-6609ECCD14AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A663A8-A247-48D4-8190-6609ECCD14AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC247553-73D2-4F3D-9F6D-1558FC60B96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC247553-73D2-4F3D-9F6D-1558FC60B96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC247553-73D2-4F3D-9F6D-1558FC60B96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC247553-73D2-4F3D-9F6D-1558FC60B96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

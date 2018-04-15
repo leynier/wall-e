@@ -1,0 +1,13 @@
+﻿label start
+	set make_n = 0
+	label make
+		create object row = random % rows, column = random % columns, color = random % 6 + 1, shape = random % 3 + 1, size = random % 3 + 1
+		set make_n = make_n + 1
+	goto make if make_n < 50
+	set r = random % 5
+	destroy shape == random % 3 + 1 if r == 0
+	destroy row == random % rows if r == 1
+	destroy column == random % columns if r == 2
+	destroy color == random % 6 + 1 if r == 3
+	destroy size == random % 3 + 1 if r == 4
+goto start

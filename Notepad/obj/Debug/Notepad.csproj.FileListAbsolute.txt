@@ -1,0 +1,16 @@
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\bin\Debug\Syncfusion.Edit.dll
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\bin\Debug\CodeStrange.Notepad.dll
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\bin\Debug\CodeStrange.Notepad.pdb
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\obj\Debug\CodeStrange.Controls.Notepad.resources
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\obj\Debug\CodeStrange.Notepad.dll
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\obj\Debug\CodeStrange.Notepad.pdb
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\bin\Debug\CodeStrange.Notepad.dll
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\bin\Debug\CodeStrange.Notepad.pdb
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\bin\Debug\Syncfusion.Edit.dll
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\obj\Debug\CodeStrange.Controls.Notepad.resources
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\obj\Debug\CodeStrange.Notepad.dll
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Notepad\obj\Debug\CodeStrange.Notepad.pdb

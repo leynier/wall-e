@@ -1,0 +1,9 @@
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Sintime\bin\Debug\WallE.Sintime.dll
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Sintime\bin\Debug\WallE.Sintime.pdb
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Sintime\obj\Debug\WallE.Sintime.dll
+D:\Proyectos\Visual Studio 2015\Cybernetics\Wall-E\Sintime\obj\Debug\WallE.Sintime.pdb
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Sintime\bin\Debug\WallE.Sintime.dll
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Sintime\bin\Debug\WallE.Sintime.pdb
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Sintime\obj\Debug\Sintime.csprojResolveAssemblyReference.cache
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Sintime\obj\Debug\WallE.Sintime.dll
+D:\Projects\Windows\Visual Studio 2017\Projects\Wall-E\Sintime\obj\Debug\WallE.Sintime.pdb
